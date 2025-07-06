@@ -250,6 +250,6 @@ body {
     }
 }
 
-
-
-
+.bg-custom {
+  background-color: #6b5a5a !important;
+}
